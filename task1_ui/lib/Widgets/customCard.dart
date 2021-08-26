@@ -64,31 +64,5 @@ class CustomTile extends StatelessWidget {
         ],
       ),
     );
-    // return Container(
-    //   padding: const EdgeInsets.all(8),
-    //   height: 160,
-    //   decoration: BoxDecoration(
-    //     borderRadius: BorderRadius.circular(15),
-
-    //   ),
-    //   child: Column(
-    //     crossAxisAlignment: CrossAxisAlignment.center,
-    //     mainAxisAlignment: MainAxisAlignment.spaceAround,
-    //     children: [
-    //       Center(child: icon),
-    //       Text(
-    //         title,
-    //         style: TextStyle(color: Colors.black38, fontSize: 30),
-    //       ),
-    //       Text(
-    //         subtitle,
-    //         style: TextStyle(
-    //             color: Colors.black38,
-    //             fontStyle: FontStyle.italic,
-    //             fontSize: 18),
-    //       ),
-    //     ],
-    //   ),
-    // );
   }
 }
